@@ -1,0 +1,1 @@
+SELECT * FROM actor WHERE id = /* id */0

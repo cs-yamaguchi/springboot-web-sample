@@ -1,0 +1,1 @@
+select * from prefecture order by id;
