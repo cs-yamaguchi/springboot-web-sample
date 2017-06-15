@@ -20,3 +20,6 @@ http://qiita.com/uzresk/items/31a4585f7828c4a9334f
 
 ## Spring Bootでバリデーションエラー時のメッセージリソースをValidationMessages.propertiesからmessages.propertiesにする
 http://qiita.com/NagaokaKenichi/items/65d0e07151292968d67f
+
+## Thymeleaf
+http://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf_ja.html
